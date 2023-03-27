@@ -2,7 +2,7 @@
 slug: /getting-started
 ---
 
-# Getting Started
+# Getting 
 
 ## Requirements
 
